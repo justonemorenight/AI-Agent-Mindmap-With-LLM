@@ -1,6 +1,7 @@
 # AI Mindmap Client
 
 An AI-powered mind mapping web application built with Next.js and Gemini API.
+Auto Generate Mindmap with LLM
 
 ## Key Features
 
